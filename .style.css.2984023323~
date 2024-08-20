@@ -17,14 +17,10 @@ strong{
 .apresentacao{
   display: flex;
   margin: 10%;
-  align-items: center;
-  justify-content: space-between;
 }
 a{
   
   
 }
-.foto{
-  height: 490px;
-  
+.foto
 }
