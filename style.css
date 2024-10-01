@@ -28,11 +28,12 @@ body{
 .titulo__destaque{
   color: var(--cor-destaque);
 }
-a{
+.apresenta_link_links {
+  width: 378px;
+  border: 2px;
   color: var(--cor-texto);
   font-size: 18px;
   text-decoration: none;
-  background-color: var(--cor-destaque);
   padding:10px 40px;
   margin:10px; 
   border-radius:20px; 
