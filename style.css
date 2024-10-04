@@ -35,9 +35,6 @@ align-items: center;
 justify-content: space-between;
 gap: 32px;
 }
-
-
-}
 .apresenta_link_links {
   width: 378px;
   border: 2px;
@@ -49,8 +46,6 @@ gap: 32px;
   text-align: center;
   font-weight: 600;
   font-family: 'Montserrat', sans-serif;
-
-
 }
 .foto{
   height: 490px;
